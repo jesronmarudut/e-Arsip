@@ -4,7 +4,7 @@ Aplikasi pengarsipan dengan melakukan implementasi *Algoritma Levenshtein Distan
 
 ## Apa itu CodeIgniter?
 
-CodeIgniter adalah sebuah *Framework* full-stack Web bahasa pemrograman PHP yang lebih Fleksibel, Cepat dan Aman. Untuk Informasi lebih lengkapnya cek di [official site](http://codeigniter.com). Untuk aplikasi E-Arsip ini menggunakan *CodeIgniter 4*.
+CodeIgniter adalah sebuah *Framework* full-stack Web bahasa pemrograman *PHP* yang lebih fleksibel, cepat dan aman. Untuk Informasi lebih lengkap mengenai *Framework CodeIgniter* boleh langsung cek di [official site](http://codeigniter.com). Dan untuk aplikasi E-Arsip ini menggunakan *CodeIgniter 4*.
 
 Berikut beberapa tampilan Aplikasi E-Arsip :
 ![image](Cover.png "Aplikasi E-Arsip")
